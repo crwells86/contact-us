@@ -1,7 +1,7 @@
 ```markdown id="58491"
 # Contact Us
 
-Thank you for using an app created by **Oly Evolutions LLC**.
+Thank you for using an app created by Oly Evolutions LLC.
 
 We are committed to providing a great experience for our users. If you have questions, need help with an app, want to report an issue, or have feedback that can help us improve, please reach out to our support team.
 
