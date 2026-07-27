@@ -17,7 +17,7 @@ For questions related to any of our iOS apps, including:
 
 Please contact us:
 
-**Email:** olyevolutions@gmail.com
+Email: olyevolutions@gmail.com
 
 ## Before Contacting Support
 
